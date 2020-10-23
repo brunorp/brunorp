@@ -1,4 +1,4 @@
-### Hi there, be welcome! 👋😄 &nbsp;&nbsp;&nbsp;
+## Hi there, be welcome! 👋😄 &nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.rossetto97@gmail.com)](mailto:bruno.rossetto97@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rossetto/)](https://www.linkedin.com/in/bruno-rossetto/)
 
