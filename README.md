@@ -5,7 +5,7 @@
 <img align="center" src="https://octodex.github.com/images/mountietocat.png" width="250">
 
 #### About me
-My name is Bruno, I am currently interning at IBM! I really like javascript and have worked with it for a while and now I'm working with .NET, I'm very excited about this opportunity to learn a new language!
+My name is Bruno, I am currently .NET developer at IBM! I really like javascript and have worked with it for a while and now I'm working with .NET, I'm very excited about this opportunity to learn a new language!
 
 - 🌱 I’m currently learning .NET
 
