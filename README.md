@@ -15,7 +15,7 @@ My name is Bruno, I am currently .NET developer at IBM! I really like javascript
 
 #### Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorp&layout=compact&theme=dracula)](https://github.com/brunorp)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorp&layout=compact&langs_count=16&theme=dracula"/>
 
 <!--
 **brunorp/brunorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
