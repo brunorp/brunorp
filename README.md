@@ -5,19 +5,18 @@
 <img align="center" src="https://octodex.github.com/images/mountietocat.png" width="250">
 
 #### About me
-My name is Bruno, I am currently Java developer at Aubay! I really like javascript and have worked with it for a while and now I'm working with Java, I'm very excited about this opportunity to learn a new language!
+My name is Bruno, I am currently Java DevOps at Critical Techworks!
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working as Java DevOps
 
 #### Main skills
 - Java;
-- Javascript;
+- AWS;
 
 #### Statistics
 <p align="center">
   <a href="https://github.com/brunorp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorp&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </p>
 <!--
